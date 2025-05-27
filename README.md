@@ -24,15 +24,15 @@ That curiosity led me to explore **data engineering** — and that’s what I’
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/YOUR_USERNAME)](https://linkedin.com/in/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/YOUR_USERNAME)](https://linkedin.com/in/ganguly-aniruddha)
 <!-- Replace with your actual LinkedIn URL -->
 
 ---
 
 ## 📈 GitHub Stats
 
-![Aniruddha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=github_dark)
+![Aniruddha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniruddhaganguly&show_icons=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniruddhaganguly&layout=compact&theme=github_dark)
 
 ---
 
