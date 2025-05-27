@@ -29,11 +29,11 @@ That curiosity led me to explore **data engineering** — and that’s what I’
 
 ---
 
-## 📈 GitHub Stats
+<!--## 📈 GitHub Stats
 
 ![Aniruddha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniruddhaganguly&show_icons=true&theme=github_dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniruddhaganguly&layout=compact&theme=github_dark)
-
+-->
 ---
 
 ## 📌 Featured Projects
