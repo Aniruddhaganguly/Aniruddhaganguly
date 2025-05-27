@@ -33,9 +33,9 @@ That curiosity led me to explore **data engineering** — and that’s what I’
 
 ![Aniruddha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aniruddhaganguly&show_icons=true&theme=github_dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniruddhaganguly&layout=compact&theme=github_dark)
--->
----
 
+---
+-->
 ## 📌 Featured Projects
 <!-- Replace these with actual repo links and titles -->
 - [Interface for Text to Speech (python)](https://github.com/Aniruddhaganguly/GUI-for-text-to-speech)
