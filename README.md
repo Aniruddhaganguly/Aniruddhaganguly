@@ -38,8 +38,8 @@ That curiosity led me to explore **data engineering** — and that’s what I’
 
 ## 📌 Featured Projects
 <!-- Replace these with actual repo links and titles -->
-- [E-commerce Platform (React/Next.js)](https://github.com/your-github-username/ecommerce-platform)
-- [Data Pipeline Practice Project](https://github.com/your-github-username/data-pipeline-practice)
+- [Interface for Text to Speech (python)](https://github.com/Aniruddhaganguly/GUI-for-text-to-speech)
+- [Covid data Visulisation](https://github.com/Aniruddhaganguly/data-visualization-dashboard)
 
 ---
 
